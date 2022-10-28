@@ -1,8 +1,8 @@
 {
   "name": "Go23KeychainSwift",
   "version": "0.1.0",
-  "summary": "A short description of Go23KeychainSwift.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Go23KeychainSwift functionality",
+  "description": "Go23KeychainSwift functionality pages.",
   "homepage": "https://github.com/TaranWu/Go23KeychainSwift",
   "license": {
     "type": "MIT",
@@ -16,7 +16,9 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "13.0"
   },
-  "source_files": "Go23KeychainSwift/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "Go23KeychainSwift/Classes/**/*",
+  "swift_version": "5.0"
 }
