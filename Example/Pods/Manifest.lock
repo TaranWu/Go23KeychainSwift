@@ -1,0 +1,16 @@
+PODS:
+  - Go23KeychainSwift (0.1.0)
+
+DEPENDENCIES:
+  - Go23KeychainSwift (from `../`)
+
+EXTERNAL SOURCES:
+  Go23KeychainSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Go23KeychainSwift: cc1286c219a3283154955c21694fc730da238787
+
+PODFILE CHECKSUM: 366bf74b5aaae425258b9c32a9f159db5c4e62f8
+
+COCOAPODS: 1.11.3
